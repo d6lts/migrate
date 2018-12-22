@@ -16,9 +16,3 @@ files[] = wine.inc
 
 ; For testing table_copy plugin. Since is infrequently used, we comment it out.
 ; files[] = example.table_copy.inc
-
-; Information added by Drupal 6 LTS vendors on 2018-12-22
-version = "6.x-2.6"
-core = "6.x"
-project = "migrate"
-datestamp = "1545506972"
