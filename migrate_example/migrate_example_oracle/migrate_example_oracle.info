@@ -11,3 +11,9 @@ name = "Migrate example - Oracle"
 package = "Migrate Examples"
 project = "migrate_example_oracle"
 version = "7.x-2.2-dev"
+
+; Information added by Drupal 6 LTS vendors on 2018-12-22
+version = "6.x-2.6"
+core = "6.x"
+project = "migrate"
+datestamp = "1545506972"
